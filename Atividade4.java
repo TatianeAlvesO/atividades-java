@@ -20,7 +20,7 @@ public class Atividade4 {
     	R = Math.sqrt(N);
     }else {
     	R = Math.pow(N, 2);
-    	
+    
     }
 		System.out.println("\nResultado: "+R);
 		
